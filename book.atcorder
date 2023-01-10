@@ -8,3 +8,9 @@ print(C)
 正答(9行目は覚えても良いくらいたくさん使う)
 A , B = map(int, input().split())
 print(A*B)
+データ型について
+a = "100"
+print(a+23)
+エラーが出る
+a = "100"
+print(int(a)+23)
