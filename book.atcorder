@@ -1,0 +1,10 @@
+p.47 例題01
+自分の解答
+A = 2
+B = 5
+C = A*B
+print(C)
+
+正答(9行目は覚えても良いくらいたくさん使う)
+A , B = map(int, input().split())
+print(A*B)
